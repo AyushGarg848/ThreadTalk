@@ -23,4 +23,4 @@ If you have any questions, suggestions, or encounter any issues with the SMS Mes
 - Email: ayushkumargarg848@gmail.com
 - GitHub: [AyushGarg848](https://github.com/AyushGarg848)
 
-Thank you for using our SMS Messenger App for Android! We hope it simplifies your SMS messaging experience. 🙌📲💬
+Thank you for using our SMS Messenger App for Android! We hope it simplifies your SMS messaging experience.
